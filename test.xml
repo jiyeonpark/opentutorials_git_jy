@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	git test
+	<subject>git test</subject>
+	<object></object>
 </root>
