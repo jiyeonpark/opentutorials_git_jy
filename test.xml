@@ -2,4 +2,6 @@
 <root>
 	<subject>git test</subject>
 	<object></object>
+	<name>test main</name>
+	<time>1</time>
 </root>
