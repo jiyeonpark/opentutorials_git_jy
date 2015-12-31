@@ -3,4 +3,9 @@
 	<subject>git test</subject>
 	<object></object>
 	<name>test1</name>
+	<time>5</time>
+	<code>
+		time = 1;
+		object = player;
+	</code>
 </root>
