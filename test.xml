@@ -4,5 +4,6 @@
 	<object></object>
 	<name>test main</name>
 	<time>1</time>
-	<mastercode>code = 1234</mastercode>
+	<clonecode>code = 4321</clonecode>
+	<code1>code = 4321</code1>
 </root>
